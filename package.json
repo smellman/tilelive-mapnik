@@ -1,5 +1,5 @@
 {
-  "name": "@smellman-openmaptiles/tilelive-mapnik",
+  "name": "tilelive-mapnik",
   "version": "1.1.0",
   "main": "./lib/mapnik_backend.js",
   "description": "Mapnik backend for tilelive",
